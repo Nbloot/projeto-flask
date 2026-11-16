@@ -74,7 +74,7 @@ O endereço `localhost` é utilizado no computador hospedeiro quando a porta 500
 
 ## 7. Autores
 
-Nicolas Elias Bloot
+Nicolas Elias Bloot    
 Victor Amorim Vieira Cirillo da Silva
 
 Curso Técnico em Informática  
